@@ -1,2 +1,2 @@
 # camera-profiling-mlp
-Digital camera sensor IT8 card profiling using NN
+Digital camera sensor profiling with IT8 card using a neural network
