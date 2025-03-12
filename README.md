@@ -6,3 +6,5 @@ Deep learning exercise using an IT8 card as training set and no test set (see "c
 Are you getting the "Sorry, something went wrong. Reload?" error when rendering the Jupyter Notebook on GitHub? Use the nbviewer workaround:
 
 https://nbviewer.jupyter.org/github/gluijk/camera-profiling-mlp/blob/master/camera-profiling-mlp.ipynb
+
+![camera-profiling-mlp](/it8cameraprofiling.png)
